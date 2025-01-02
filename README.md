@@ -15,3 +15,11 @@ List of topics:
 5 - Gas
 
 6 - States of matter
+
+7 - Percolation
+
+8 - Fractals from IFS
+
+9 - Ising Model
+
+10 - Domains
