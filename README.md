@@ -26,4 +26,6 @@ List of topics:
 
 11 - Sandpile Model
 
-12- Cellular Automata
+12 - Cellular Automata
+
+Extra task - simulation of Conway's game of life. The basics of the game were created based on a tutorial https://www.youtube.com/watch?v=cRWg2SWuXtM . Then the code was adjusted to my needs and upgraded - for example, there is an added option to choose the size of the grid or to save the animation.
