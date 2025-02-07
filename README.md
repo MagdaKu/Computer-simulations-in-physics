@@ -1,6 +1,6 @@
 # Computer-simulations-in-physics
 
-Tasks from classes: https://www.fuw.edu.pl/~qba/csp2024/
+Tasks from classes: http://www3.cent.uw.edu.pl/~klukanowski/csp2024/
 
 List of topics:
 
@@ -23,3 +23,7 @@ List of topics:
 9 - Ising Model
 
 10 - Domains
+
+11 - Sandpile Model
+
+12- Cellular Automata
